@@ -1,1 +1,14 @@
-this repository for simple multimedia tasks such as 
+this repository for simple multimedia tasks such as : 
+dither dissolve
+cross dissolve
+floyd
+threshold
+improved threshold
+convert from RGB to YUV 
+convert from YUV to RGB
+order dithering 
+pattern 
+subsampling
+rotation 
+scale
+translation
